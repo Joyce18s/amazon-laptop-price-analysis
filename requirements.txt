@@ -1,0 +1,11 @@
+pandas
+selenium
+matplotlib
+seaborn
+openpyxl
+python-docx
+docx2pdf
+numpy
+time
+re
+unicodedata
